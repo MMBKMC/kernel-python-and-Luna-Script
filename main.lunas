@@ -1,0 +1,17 @@
+#Kernel OS
+import <os>
+import <sys>
+import <main.py>
+
+bits x 16
+int main()
+{
+    put.console >> "Hello World/n" >>
+    a = Hello World
+    x = Good Bye World
+    put.console >> "Good Bye World/n" >>
+    float = a
+    float = x
+
+    path = kernel/root/Output.py
+}
